@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/deossy/deossy.github.io.git/static/css/main.a70d9811.css",
+    "main.js": "/deossy/deossy.github.io.git/static/js/main.8df6f190.js",
+    "static/js/453.5ec38994.chunk.js": "/deossy/deossy.github.io.git/static/js/453.5ec38994.chunk.js",
+    "static/media/home.jpg": "/deossy/deossy.github.io.git/static/media/home.10c70f34c23d3bd4ee58.jpg",
+    "static/media/about1.jpg": "/deossy/deossy.github.io.git/static/media/about1.95e250d6a88c39128c79.jpg",
+    "static/media/Dessy-Cv.pdf": "/deossy/deossy.github.io.git/static/media/Dessy-Cv.f4f10ad8b7ee0a60ef9b.pdf",
+    "static/media/work1.jpg": "/deossy/deossy.github.io.git/static/media/work1.25d5fab472aad7f25853.jpg",
+    "static/media/work2.jpg": "/deossy/deossy.github.io.git/static/media/work2.6443bc0381015d3c6dad.jpg",
+    "static/media/work4.jpg": "/deossy/deossy.github.io.git/static/media/work4.aa15ecf30a6a170febc1.jpg",
+    "static/media/work3.png": "/deossy/deossy.github.io.git/static/media/work3.d099f437f9797df5d58b.png",
+    "static/media/work5.jpg": "/deossy/deossy.github.io.git/static/media/work5.3edbecc8db32103e11fd.jpg",
+    "index.html": "/deossy/deossy.github.io.git/index.html",
+    "main.a70d9811.css.map": "/deossy/deossy.github.io.git/static/css/main.a70d9811.css.map",
+    "main.8df6f190.js.map": "/deossy/deossy.github.io.git/static/js/main.8df6f190.js.map",
+    "453.5ec38994.chunk.js.map": "/deossy/deossy.github.io.git/static/js/453.5ec38994.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a70d9811.css",
+    "static/js/main.8df6f190.js"
+  ]
+}
